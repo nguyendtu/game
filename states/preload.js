@@ -14,7 +14,7 @@ Preload.prototype = {
 		this.load.image('melone', 'assets/melone.png');
 		this.load.image('apricot', 'assets/apricot.png');
 		this.load.image('papaye', 'assets/papaye.png');
-		this.load.image('plum', 'assets/plum.png');
+		this.load.image('plum', 'assets/Plum.png');
 		this.load.image('fig', 'assets/fig.png');
 		this.load.image('avocado', 'assets/avocado.png');
 		this.load.image('jack-fruit-wh', 'assets/jack-fruit-wh.jpg');
