@@ -26,7 +26,7 @@ Begin.prototype = {
 			{key:"papaye", scale:0.45, use:"vitamin_a"},
 			{key:"apple", scale:0.15, use:"sat"},
 			{key:"fig", scale:0.5, use:"suy_dinh_duong"},
-			{key:"Plum", scale:0.45, use:"sat"},
+			{key:"plum", scale:0.45, use:"sat"},
 			{key:"jack-fruit-wh", scale:0.11, use:"sat"},
 			{key:"raspberry", scale:0.1, use:"kem"},
 			{key:"Mulberry", scale:0.3, use:"kem"},
